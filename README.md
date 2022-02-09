@@ -4,7 +4,7 @@
   <li> 🔭 Atualmente estou trabalhando como estagiário de desenvolvimento no Grupo Portfolio. </li>
   <li> 🌱 Me especializando em desenvolvimento web, utilizando tecnologias como JavaScript, ReactJS e NodeJS. </li>
   <li> 📫 Contato: lucassouzzamarques@gmail.com </li>
-  <li> 💬 Tenho interesse particular em design de game e desenvolvimento de jogos. </li>
+  <li> 💬 Tenho interesse particular em game design e desenvolvimento de jogos. </li>
 </ul>
 
 <hr>
