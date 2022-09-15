@@ -1,10 +1,10 @@
 <h1> Olá, me chamo Lucas Souza </h1>
 
 <ul>
-  <li> 🔭 Atualmente estou trabalhando como estagiário de desenvolvimento no Grupo Portfolio. </li>
+  <li> 🔭 Atualmente estou buscando uma oportunidade de trabalha para reingressar no mercado como desenvolvedor front-end. </li>
   <li> 🌱 Me especializando em desenvolvimento web, utilizando tecnologias como JavaScript, ReactJS e NodeJS. </li>
   <li> 📫 Contato: lucassouzzamarques@gmail.com </li>
-  <li> 💬 Tenho interesse particular em game design e desenvolvimento de jogos. </li>
+  <li> 💬 Tenho interesse particular na linguagem C#, em game design e desenvolvimento de jogos utilizando a engine Unity. </li>
 </ul>
 
 <hr>
